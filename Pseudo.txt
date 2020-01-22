@@ -1,0 +1,13 @@
+Q#1 
+Variable Integer types 
+Selection for loop
+Prompt user for examScore
+Get averageScore
+Calculate averageScore = examScore/10
+Display averageScore
+
+Q#2
+Prompt user for rainFall and roof dimensions in inches  
+Get runOff 
+Calculate runOff = (rainFall*roof)/231
+Display runOff in Gallons 
